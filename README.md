@@ -1,6 +1,11 @@
 # Gustavo Ganaza
 
-🧑‍💻 Desenvolvedor Fullstack formado em Ciência da Computação pela UEM.
+## 🎓 Formação
+
+**Universidade Estadual de Maringá** — Bacharelado em Ciência da Computação *(2022 – 2025)*
+
+> **TCC:** *"Análise Comparativa e Revisão de Algoritmos Utilizados no Desenvolvimento de Programas de Xadrez"*
+> Explorando algoritmos clássicos como **Minimax** e **Alpha-Beta Pruning**, além de abordagens modernas de IA aplicadas a jogos.
 
 ---
 
@@ -13,21 +18,6 @@ Plataforma SaaS desenvolvida em equipe para planejamento de decorações com bal
 
 ---
 
-## 🎓 Formação
-
-**Universidade Estadual de Maringá** — Bacharelado em Ciência da Computação *(2022 – 2025)*
-
-> **TCC:** *"Análise Comparativa e Revisão de Algoritmos Utilizados no Desenvolvimento de Programas de Xadrez"*
-> Explorando algoritmos clássicos como **Minimax** e **Alpha-Beta Pruning**, além de abordagens modernas de IA aplicadas a jogos.
-
----
-
-## 📊 GitHub Stats
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoGNZ&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGNZ&layout=compact&theme=radical)
-
----
 
 ## 🌐 Contato
 

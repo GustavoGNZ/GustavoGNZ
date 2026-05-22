@@ -11,7 +11,7 @@
 
 ## 🚀 Projetos
 
-### [Decora Balão](https://decorabalao.app.br/) — Plataforma SaaS de Decoração com Balões *(em andamento)*
+### [Decora Balão](https://decorabalao.com.br/) — Plataforma SaaS de Decoração com Balões *(em andamento)*
 Plataforma SaaS desenvolvida em equipe para planejamento de decorações com balões. Oferece editor visual interativo com grade personalizável, pintura automática a partir de imagem de referência e exportação de projetos.
 - Responsável pela autenticação de usuários, integração com Stripe (com período de trial) e camadas de segurança da aplicação
 - **Stack:** Next.js 15, React, TypeScript, MongoDB, Stripe, Docker, Vercel

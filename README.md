@@ -2,7 +2,7 @@
 
 ## 🎓 Formação
 
-**Universidade Estadual de Maringá** — Bacharelado em Ciência da Computação *(2022 – 2025)*
+**Universidade Estadual de Maringá** — Bacharelado em Ciência da Computação *(2022 – 2026)*
 
 > **TCC:** *"Análise Comparativa e Revisão de Algoritmos Utilizados no Desenvolvimento de Programas de Xadrez"*
 > Explorando algoritmos clássicos como **Minimax** e **Alpha-Beta Pruning**, além de abordagens modernas de IA aplicadas a jogos.
